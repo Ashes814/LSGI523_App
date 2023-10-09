@@ -1,0 +1,14 @@
+.g2-left {
+  position: absolute;
+  z-index: 3;
+  width: 22vw;
+  top: 170px;
+  height: 75vh;
+  left: 20px;
+  /* overflow: hidden; */
+  /* border: 1px solid #ccc; */
+}
+
+.chord-inner {
+  transform: translateY(1000px);
+}

@@ -1,0 +1,23 @@
+@import url("http://fonts.googleapis.com/css?family=Bitter:400,700,400italic");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  border: none;
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+body {
+  font-family: "bitter";
+  padding: 0;
+  text-align: center;
+  background-color: #000;
+  background-size: cover;
+}
